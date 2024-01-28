@@ -203,3 +203,10 @@ width: 486px;
   border-radius: 8px;
     background: #FF4E4E;
 }
+
+#boxes{
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+    
+}
